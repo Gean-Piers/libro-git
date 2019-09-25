@@ -1,0 +1,1 @@
+1. El flujo de trabajo básicos con Git consiste en: 1.- Hacer cambios en el rezona de intercambio temporal. 3. Hacer in commit de los cambios.[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[u[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
